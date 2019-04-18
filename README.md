@@ -6,7 +6,7 @@ Multiple classifier system (MCS) has become a successful method for improving cl
 
 
 ### Content
-./data/: data folder containing all the evaluation dataset in the manuscript. 
+./data/: data folder containing all the evaluation datasets in the manuscript. 
 
 ./src/: the source code folder
 
