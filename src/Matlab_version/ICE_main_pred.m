@@ -80,8 +80,6 @@ xlim([0.4, 1.05]);
 %%
 % Random Forest 10k trees.
 
-%%
-%% RF 10k
 
 I = 10000;
 allData_aucs = [];
