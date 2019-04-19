@@ -2,8 +2,12 @@ The datasets are collected from UCI machine learning repository and Kaggle Datas
 
 ./data_all/final_49_names_and_ix.m and .mat show the dataset names.
 
+Use
+```names = new_names(ix_inst)```
+to get the name array in the same order as in the "./data_all/" folder.
+
 ./data_all/x/data.mat shows the dataset in matlab format. This file containing 2 variables - X and y. X is the features vectors; y is the class labels.
 
-X.pkl and y.pkl are the pickle format of data array and label array.
+X.pkl and y.pkl are the data array and label array under pickle format.
 
 
