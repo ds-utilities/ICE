@@ -2,5 +2,9 @@
 
 **Python_version**: the python version of ICE. 
 
-Currently, the most up-to-date version of ICE is the Matlab version, which is the same in the manuscript. The only difference between the Python version and Matlab version is the clustering method. Python version needs manually set the number of clusters, while the Matlab version automatically generates fuzzy clusters without explicitly given the number of clusters. 
+Currently, the most up-to-date version of ICE is the Matlab version, which is the same in the manuscript. The only two difference between the Python version and Matlab version are:
+
+1). the clustering method. Python version needs manually set the number of clusters, while the Matlab version automatically generates fuzzy clusters without explicitly given the number of clusters.
+
+2). the Python version uses scikit-learn base clssification algorithms, while Matlab version uses Weka base clssification algorithms.
 
