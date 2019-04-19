@@ -51,7 +51,7 @@ new_names = {'breast-cancer-wisc-prog';...
 'hill-valley';...
 };
 
-%
+% id,  number of features, number of instances, % majority class 
 a = [1	33	198	0.7626;
 2	19	155	0.7935;
 3	22	195	0.7538;
@@ -102,6 +102,7 @@ a = [1	33	198	0.7626;
 48	41	1022	0.6703;
 49	100	1212	0.5000];
 
+% id after ranking on number of instances
 ix_inst = [22;23;24;2;5;25;3;1;26;9;27;4;28;13;30;14;29;8;31;15;32;36;16;...
     33;34;11;35;12;37;10;38;17;39;40;7;41;18;42;19;43;6;44;45;20;46;47;21;48;49];
 
