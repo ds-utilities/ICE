@@ -10,7 +10,5 @@ Multiple classifier system (MCS) has become a successful method for improving cl
 
 ./src/: the source code folder
 
-./supp/: the supplementary files for the manuscript
-
 ./manuscript.pdf: the manuscript file of ICE
 
